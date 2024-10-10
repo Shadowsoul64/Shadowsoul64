@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadowsoul64
-- 👀 I’m interested in MegaMan, IT, and learning programming
-- 🌱 I’m currently learning Python!
+- 👀 I’m interested in MegaMan, pokemon, analog tech and generally curious about how things work 
+- 🌱 I’m currently learning python and C# in order to automate tasks at work. 
 - 💞️ I’m looking to collaborate on nothing yet, but eventualy something once my skills improve!
 - 📫 How to reach me - nowhere yet!
 
